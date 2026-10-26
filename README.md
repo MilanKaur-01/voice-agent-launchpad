@@ -25,9 +25,9 @@ Not sure where to begin? Pick the row that matches your goal.
 
 ## 📞 Teams Phone Extensibility (TPE)
 
-Teams Phone Extensibility lets a custom application, such as an AI voice agent, IVR, or contact-center solution, answer and handle calls that arrive at Teams Phone numbers through a Teams resource account. Callers dial a Teams Phone number, your agent handles the conversation, and calls can be handed off to people in Teams.
+Teams Phone Extensibility is the developer route: it gives you APIs to build **your own** calling application on top of Teams Phone. You write and host the call logic, pick your own AI stack, and connect it to Teams Phone numbers through a Teams resource account.
 
-**Use TPE when** your organization already runs telephony on Teams Phone and you want a voice agent on those numbers with handoff to Teams users. **Use the general voice samples below when** you are building a browser, app, or non-Teams telephony voice agent.
+**Use TPE when** you need custom call handling on Teams Phone, for example your own AI models, business-system integrations, or a partner contact-center solution. **Use the Voice Live samples below when** you are building a voice agent outside Teams Phone.
 
 Samples that work **directly** with Teams Phone Extensibility.
 
