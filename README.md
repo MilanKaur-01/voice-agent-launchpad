@@ -53,7 +53,7 @@ Narrow building blocks, not complete AI voice agents.
 
 ## 🔊 Voice Live and Foundry voice agents
 
-General voice-agent samples. They are not TPE-specific; use them for voice pipelines, architecture, and agent patterns.
+Build real-time voice agents with Azure AI Voice Live and Microsoft Foundry. Start with a reference solution for an end-to-end call-center or voice pipeline, or with a quickstart for language-specific examples of function calling, MCP tools, and Foundry agent integration. These samples run in browsers, apps, or telephony and do not require Teams Phone.
 
 ### Reference solutions
 
