@@ -53,7 +53,7 @@ Narrow building blocks, not complete AI voice agents.
 
 ## 🔊 Voice Live and Foundry voice agents
 
-Build real-time voice agents with Azure AI Voice Live and Microsoft Foundry. Start with a reference solution for an end-to-end call-center or voice pipeline, or with a quickstart for language-specific examples of function calling, MCP tools, and Foundry agent integration. These samples run in browsers, apps, or telephony and do not require Teams Phone.
+Build real-time voice agents with Azure AI Voice Live and Microsoft Foundry. Start with a reference solution for an end-to-end call-center or voice pipeline, or with a quickstart for language-specific examples of function calling, MCP tools, and Foundry agent integration. These samples are not built specifically for Teams Phone Extensibility.
 
 ### Reference solutions
 
