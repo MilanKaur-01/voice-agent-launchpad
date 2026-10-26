@@ -40,15 +40,6 @@ Samples that work **directly** with Teams Phone Extensibility.
 | ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | Gallery of 11 TPE and custom voice scenarios. See [Templates and scenario demos](#-templates-and-scenario-demos). Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 |
 | [tpcli](https://github.com/anujb-msft/tpcli) | CLI that connects TPE with Voice Live. Early implementation; not production-ready. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-21 | 2026-09-21 |
 
-### Supporting TPE tools
-
-Narrow building blocks, not complete AI voice agents.
-
-| Repository | What it is | Owner | Created | Last commit |
-| --- | --- | --- | --- | --- |
-| [SimpleAcsCallBot](https://github.com/LucaVitali/SimpleAcsCallBot) | Minimal demo that answers incoming Teams calls through TPE using ACS. No complete AI agent. Default branch: `master`. | [LucaVitali](https://github.com/LucaVitali) | 2025-11-15 | 2025-11-22 |
-| [ACS-TPEResourceAccountAuthManager](https://github.com/RasoliDavide/ACS-TPEResourceAccountAuthManager) | Tool for TPE resource-account authorization. Not an agent demo. | [RasoliDavide](https://github.com/RasoliDavide) | 2025-11-17 | 2025-11-17 |
-
 ---
 
 ## 🧩 Templates and scenario demos
