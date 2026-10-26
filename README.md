@@ -34,20 +34,20 @@ Samples that work **directly** with Teams Phone Extensibility.
 > [!WARNING]
 > Some TPE components below depend on Azure Communication Services (ACS) for call handling or resource-account authorization. Check each repository's current dependencies before you build on it.
 
-| Repository | What it is | Owner | Created | Last commit | License |
-| --- | --- | --- | --- | --- | --- |
-| ⭐ [agentic-ai-contact-center](https://github.com/colincmac/agentic-ai-contact-center) | TPE contact-center reference architecture with [architecture docs](https://github.com/colincmac/agentic-ai-contact-center/tree/main/docs/architecture) and a [TPE onboarding guide](https://github.com/colincmac/agentic-ai-contact-center/blob/main/docs/runbooks/teams-configuration/tpe-onboarding-guide.md). Uses ACS dependencies. | [colincmac](https://github.com/colincmac) | 2026-08-21 | 2026-09-17 | MIT |
-| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | Gallery of 11 TPE and custom voice scenarios. See [Templates and scenario demos](#-templates-and-scenario-demos). Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 | MIT |
-| [tpcli](https://github.com/anujb-msft/tpcli) | CLI that connects TPE with Voice Live. Early implementation; not production-ready. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-21 | 2026-09-21 | [None detected](https://github.com/anujb-msft/tpcli) |
+| Repository | What it is | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| ⭐ [agentic-ai-contact-center](https://github.com/colincmac/agentic-ai-contact-center) | TPE contact-center reference architecture with [architecture docs](https://github.com/colincmac/agentic-ai-contact-center/tree/main/docs/architecture) and a [TPE onboarding guide](https://github.com/colincmac/agentic-ai-contact-center/blob/main/docs/runbooks/teams-configuration/tpe-onboarding-guide.md). Uses ACS dependencies. | [colincmac](https://github.com/colincmac) | 2026-08-21 | 2026-09-17 |
+| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | Gallery of 11 TPE and custom voice scenarios. See [Templates and scenario demos](#-templates-and-scenario-demos). Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 |
+| [tpcli](https://github.com/anujb-msft/tpcli) | CLI that connects TPE with Voice Live. Early implementation; not production-ready. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-21 | 2026-09-21 |
 
 ### Supporting TPE tools
 
 Narrow building blocks, not complete AI voice agents.
 
-| Repository | What it is | Owner | Created | Last commit | License |
-| --- | --- | --- | --- | --- | --- |
-| [SimpleAcsCallBot](https://github.com/LucaVitali/SimpleAcsCallBot) | Minimal demo that answers incoming Teams calls through TPE using ACS. No complete AI agent. Default branch: `master`. | [LucaVitali](https://github.com/LucaVitali) | 2025-11-15 | 2025-11-22 | [None detected](https://github.com/LucaVitali/SimpleAcsCallBot) |
-| [ACS-TPEResourceAccountAuthManager](https://github.com/RasoliDavide/ACS-TPEResourceAccountAuthManager) | Tool for TPE resource-account authorization. Not an agent demo. | [RasoliDavide](https://github.com/RasoliDavide) | 2025-11-17 | 2025-11-17 | [None detected](https://github.com/RasoliDavide/ACS-TPEResourceAccountAuthManager) |
+| Repository | What it is | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| [SimpleAcsCallBot](https://github.com/LucaVitali/SimpleAcsCallBot) | Minimal demo that answers incoming Teams calls through TPE using ACS. No complete AI agent. Default branch: `master`. | [LucaVitali](https://github.com/LucaVitali) | 2025-11-15 | 2025-11-22 |
+| [ACS-TPEResourceAccountAuthManager](https://github.com/RasoliDavide/ACS-TPEResourceAccountAuthManager) | Tool for TPE resource-account authorization. Not an agent demo. | [RasoliDavide](https://github.com/RasoliDavide) | 2025-11-17 | 2025-11-17 |
 
 > [!NOTE]
 > **Teams Phone Agent (TPA):** no public TPA implementation repository has been verified yet, so none is listed. The general voice samples below are **not** TPA samples.
@@ -60,32 +60,32 @@ General voice-agent samples. They are not TPE-specific; use them for voice pipel
 
 ### Reference solutions
 
-| Repository | What it is | Owner | Created | Last commit | License |
-| --- | --- | --- | --- | --- | --- |
-| ⭐ [call-center-voice-agent-accelerator](https://github.com/Azure-Samples/call-center-voice-agent-accelerator) | Voice Live reference solution with browser and multiple telephony adapters. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-07-22 | 2026-09-30 | MIT |
-| [art-voice-agent-accelerator](https://github.com/Azure-Samples/art-voice-agent-accelerator) | Voice Live and STT → LLM → TTS pipelines, with architecture and orchestration guidance. Includes ACS components. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-09-04 | 2026-09-09 | MIT |
+| Repository | What it is | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| ⭐ [call-center-voice-agent-accelerator](https://github.com/Azure-Samples/call-center-voice-agent-accelerator) | Voice Live reference solution with browser and multiple telephony adapters. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-07-22 | 2026-09-30 |
+| [art-voice-agent-accelerator](https://github.com/Azure-Samples/art-voice-agent-accelerator) | Voice Live and STT → LLM → TTS pipelines, with architecture and orchestration guidance. Includes ACS components. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-09-04 | 2026-09-09 |
 
 ### Quickstarts and SDK samples
 
 For broad catalogs, links go straight to the voice-specific folders.
 
-| Repository | Voice-specific entry points | Owner | Created | Last commit | License |
-| --- | --- | --- | --- | --- | --- |
-| [voicelive-samples](https://github.com/microsoft-foundry/voicelive-samples) | Voice Live quickstarts, function calling, MCP, and Foundry: [Python](https://github.com/microsoft-foundry/voicelive-samples/tree/main/python) · [C#](https://github.com/microsoft-foundry/voicelive-samples/tree/main/csharp) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-11-07 | 2026-10-22 | [See repository](https://github.com/microsoft-foundry/voicelive-samples) |
-| [foundry-samples](https://github.com/microsoft-foundry/foundry-samples) | Voice folders only: [Python](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/python/voice-agents) · [JavaScript browser console](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/javascript/voice-agents/browser-voice-console) · [C#](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/csharp/VoiceAgents) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-04-22 | 2026-10-26 | MIT |
-| [voice-agent](https://github.com/microsoft/voice-agent) | Foundry Voice Agent docs, videos, and samples, including a [Voice Live to Voice Agent sample](https://github.com/microsoft/voice-agent/tree/main/samples/voice_live_to_voice_agent). Not packaged TPA source. | [microsoft](https://github.com/microsoft) | 2026-10-03 | 2026-10-26 | [See repository](https://github.com/microsoft/voice-agent) |
+| Repository | Voice-specific entry points | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| [voicelive-samples](https://github.com/microsoft-foundry/voicelive-samples) | Voice Live quickstarts, function calling, MCP, and Foundry: [Python](https://github.com/microsoft-foundry/voicelive-samples/tree/main/python) · [C#](https://github.com/microsoft-foundry/voicelive-samples/tree/main/csharp) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-11-07 | 2026-10-22 |
+| [foundry-samples](https://github.com/microsoft-foundry/foundry-samples) | Voice folders only: [Python](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/python/voice-agents) · [JavaScript browser console](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/javascript/voice-agents/browser-voice-console) · [C#](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/csharp/VoiceAgents) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-04-22 | 2026-10-26 |
+| [voice-agent](https://github.com/microsoft/voice-agent) | Foundry Voice Agent docs, videos, and samples, including a [Voice Live to Voice Agent sample](https://github.com/microsoft/voice-agent/tree/main/samples/voice_live_to_voice_agent). Not packaged TPA source. | [microsoft](https://github.com/microsoft) | 2026-10-03 | 2026-10-26 |
 
 ---
 
 ## 🧩 Templates and scenario demos
 
-| Repository | What it is | Owner | Created | Last commit | License |
-| --- | --- | --- | --- | --- | --- |
-| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | 11 TPE and custom voice scenarios; the [templates folder](https://github.com/anujb-msft/voice-ai-template-gallery/tree/main/docs/templates) holds guides, code, and presenter assets. Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 | MIT |
-| [voice-first-sme-agent-template](https://github.com/Azure-Samples/voice-first-sme-agent-template) | React and FastAPI voice template with deployment scaffolding and optional RAG. No verified TPE or TPA support. | [Azure-Samples](https://github.com/Azure-Samples) | 2026-06-11 | 2026-06-11 | MIT |
-| [voicelive-webapp](https://github.com/Azure-Samples/voicelive-webapp) | WebRTC voice and avatar web app. Its [Teams meeting delegate](https://github.com/Azure-Samples/voicelive-webapp/tree/main/samples/teams-meeting-delegate) sample targets Teams **meetings**, not TPE or TPA. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-11-03 | 2026-09-18 | [None detected](https://github.com/Azure-Samples/voicelive-webapp) |
-| [voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach) | Voice-based customer simulations for sales training and feedback. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-22 | 2026-09-21 | MIT |
-| [voice-live-gradio](https://github.com/Azure-Samples/voice-live-gradio) | Side-by-side demos comparing realtime, Voice Live, and Foundry voice. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-12 | 2026-05-28 | MIT |
+| Repository | What it is | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | 11 TPE and custom voice scenarios; the [templates folder](https://github.com/anujb-msft/voice-ai-template-gallery/tree/main/docs/templates) holds guides, code, and presenter assets. Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 |
+| [voice-first-sme-agent-template](https://github.com/Azure-Samples/voice-first-sme-agent-template) | React and FastAPI voice template with deployment scaffolding and optional RAG. No verified TPE or TPA support. | [Azure-Samples](https://github.com/Azure-Samples) | 2026-06-11 | 2026-06-11 |
+| [voicelive-webapp](https://github.com/Azure-Samples/voicelive-webapp) | WebRTC voice and avatar web app. Its [Teams meeting delegate](https://github.com/Azure-Samples/voicelive-webapp/tree/main/samples/teams-meeting-delegate) sample targets Teams **meetings**, not TPE or TPA. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-11-03 | 2026-09-18 |
+| [voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach) | Voice-based customer simulations for sales training and feedback. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-22 | 2026-09-21 |
+| [voice-live-gradio](https://github.com/Azure-Samples/voice-live-gradio) | Side-by-side demos comparing realtime, Voice Live, and Foundry voice. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-12 | 2026-05-28 |
 
 ---
 
@@ -95,7 +95,6 @@ For broad catalogs, links go straight to the voice-specific folders.
 - **Owner:** the GitHub account or organization that hosts the repository. It is **not** a verified original author. No individual authorship has been verified for these entries, and latest committers are never treated as authors.
 - **Created:** the date the GitHub repository was created (UTC). It is not a verified first-publication date.
 - **Last commit:** the latest commit on the default branch (UTC). Dates apply to the whole repository, not to individual subfolders.
-- **License:** as detected on GitHub. "None detected" or "See repository" means you must check the source yourself before reuse.
 - **TPE vs. general voice:** only the [TPE section](#-teams-phone-extensibility-tpe) lists samples that work directly with Teams Phone Extensibility.
 
 _Metadata last verified: 2026-10-26._

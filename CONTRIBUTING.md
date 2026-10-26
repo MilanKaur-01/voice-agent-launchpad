@@ -24,6 +24,5 @@ Open an issue or pull request with:
 | One-line description | What it does and any limits, such as "demo-grade" or "requires ACS" |
 | Owner | The hosting account or organization. Add an author only if authorship is verified from a reliable source, never from the latest committer. |
 | Created and last commit dates | From the GitHub repository and its default branch, in UTC |
-| License | As detected on GitHub, or "None detected" |
 
 Only label a sample as TPE or TPA when the repository shows direct support. Avoid claims about production readiness, endorsement, or product lifecycle that the source does not support.
