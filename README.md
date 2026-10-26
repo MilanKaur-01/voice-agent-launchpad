@@ -2,7 +2,7 @@
 
 **One front door to voice-agent samples for Teams Phone Extensibility (TPE) and custom voice agents.**
 
-Useful voice samples live across many personal and organization GitHub accounts. This page curates them in one place so partners and customers can find a strong starting point quickly. Nothing is copied here: every entry links to its externally maintained source repository.
+Useful voice samples live across many personal and organization GitHub accounts. This page curates them in one place so partners and customers can find a strong starting point quickly.
 
 > [!IMPORTANT]
 > This is a curated index, not an official Microsoft catalog. Inclusion does not imply endorsement, production readiness, support, or license approval. Review each source repository's license, security posture, and maintenance status before you use it.
