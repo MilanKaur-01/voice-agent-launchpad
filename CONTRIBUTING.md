@@ -20,7 +20,7 @@ Open an issue or pull request with:
 | Field | Notes |
 | --- | --- |
 | Repository URL | `https://github.com/{owner}/{repo}` and any voice-specific folder links |
-| Section | TPE, Supporting TPE tool, Voice Live and Foundry, or Templates and scenario demos |
+| Section | TPE, Templates and scenario demos, or Voice Live and Foundry |
 | One-line description | What it does and any limits, such as "demo-grade" or "requires ACS" |
 | Owner | The hosting account or organization. Add an author only if authorship is verified from a reliable source, never from the latest committer. |
 | Created and last commit dates | From the GitHub repository and its default branch, in UTC |
