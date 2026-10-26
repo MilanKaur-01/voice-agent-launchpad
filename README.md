@@ -49,9 +49,6 @@ Narrow building blocks, not complete AI voice agents.
 | [SimpleAcsCallBot](https://github.com/LucaVitali/SimpleAcsCallBot) | Minimal demo that answers incoming Teams calls through TPE using ACS. No complete AI agent. Default branch: `master`. | [LucaVitali](https://github.com/LucaVitali) | 2025-11-15 | 2025-11-22 |
 | [ACS-TPEResourceAccountAuthManager](https://github.com/RasoliDavide/ACS-TPEResourceAccountAuthManager) | Tool for TPE resource-account authorization. Not an agent demo. | [RasoliDavide](https://github.com/RasoliDavide) | 2025-11-17 | 2025-11-17 |
 
-> [!NOTE]
-> **Teams Phone Agent (TPA):** no public TPA implementation repository has been verified yet, so none is listed. The general voice samples below are **not** TPA samples.
-
 ---
 
 ## 🔊 Voice Live and Foundry voice agents
