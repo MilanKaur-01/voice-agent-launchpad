@@ -7,7 +7,7 @@ Useful voice samples live across many personal and organization GitHub accounts.
 > [!IMPORTANT]
 > This is a curated index, not an official Microsoft catalog. Inclusion does not imply endorsement, production readiness, support, or license approval. Review each source repository's license, security posture, and maintenance status before you use it.
 
-**Jump to:** [Start here](#-start-here) · [Teams Phone Extensibility](#-teams-phone-extensibility-tpe) · [Voice Live and Foundry voice agents](#-voice-live-and-foundry-voice-agents) · [Templates and scenario demos](#-templates-and-scenario-demos) · [Suggest a sample](#-suggest-a-sample)
+**Jump to:** [Start here](#-start-here) · [Teams Phone Extensibility](#-teams-phone-extensibility-tpe) · [Templates and scenario demos](#-templates-and-scenario-demos) · [Voice Live and Foundry voice agents](#-voice-live-and-foundry-voice-agents) · [Suggest a sample](#-suggest-a-sample)
 
 ---
 
@@ -51,6 +51,20 @@ Narrow building blocks, not complete AI voice agents.
 
 ---
 
+## 🧩 Templates and scenario demos
+
+Ready-made templates and focused demos you can adapt for specific voice scenarios, including TPE scenario templates, a voice and avatar web app, sales coaching simulations, and side-by-side voice model comparisons. Use them to prototype or present an idea quickly.
+
+| Repository | What it is | Owner | Created | Last commit |
+| --- | --- | --- | --- | --- |
+| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | 11 TPE and custom voice scenarios; the [templates folder](https://github.com/anujb-msft/voice-ai-template-gallery/tree/main/docs/templates) holds guides, code, and presenter assets. Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 |
+| [voice-first-sme-agent-template](https://github.com/Azure-Samples/voice-first-sme-agent-template) | React and FastAPI voice template with deployment scaffolding and optional RAG. No verified TPE or TPA support. | [Azure-Samples](https://github.com/Azure-Samples) | 2026-06-11 | 2026-06-11 |
+| [voicelive-webapp](https://github.com/Azure-Samples/voicelive-webapp) | WebRTC voice and avatar web app. Its [Teams meeting delegate](https://github.com/Azure-Samples/voicelive-webapp/tree/main/samples/teams-meeting-delegate) sample targets Teams **meetings**, not TPE or TPA. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-11-03 | 2026-09-18 |
+| [voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach) | Voice-based customer simulations for sales training and feedback. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-22 | 2026-09-21 |
+| [voice-live-gradio](https://github.com/Azure-Samples/voice-live-gradio) | Side-by-side demos comparing realtime, Voice Live, and Foundry voice. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-12 | 2026-05-28 |
+
+---
+
 ## 🔊 Voice Live and Foundry voice agents
 
 Build real-time voice agents with Azure AI Voice Live and Microsoft Foundry. Start with a reference solution for an end-to-end call-center or voice pipeline, or with a quickstart for language-specific examples of function calling, MCP tools, and Foundry agent integration. These samples are not built specifically for Teams Phone Extensibility.
@@ -71,18 +85,6 @@ For broad catalogs, links go straight to the voice-specific folders.
 | [voicelive-samples](https://github.com/microsoft-foundry/voicelive-samples) | Voice Live quickstarts, function calling, MCP, and Foundry: [Python](https://github.com/microsoft-foundry/voicelive-samples/tree/main/python) · [C#](https://github.com/microsoft-foundry/voicelive-samples/tree/main/csharp) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-11-07 | 2026-10-22 |
 | [foundry-samples](https://github.com/microsoft-foundry/foundry-samples) | Voice folders only: [Python](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/python/voice-agents) · [JavaScript browser console](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/javascript/voice-agents/browser-voice-console) · [C#](https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/csharp/VoiceAgents) | [microsoft-foundry](https://github.com/microsoft-foundry) | 2025-04-22 | 2026-10-26 |
 | [voice-agent](https://github.com/microsoft/voice-agent) | Foundry Voice Agent docs, videos, and samples, including a [Voice Live to Voice Agent sample](https://github.com/microsoft/voice-agent/tree/main/samples/voice_live_to_voice_agent). Not packaged TPA source. | [microsoft](https://github.com/microsoft) | 2026-10-03 | 2026-10-26 |
-
----
-
-## 🧩 Templates and scenario demos
-
-| Repository | What it is | Owner | Created | Last commit |
-| --- | --- | --- | --- | --- |
-| ⭐ [voice-ai-template-gallery](https://github.com/anujb-msft/voice-ai-template-gallery) | 11 TPE and custom voice scenarios; the [templates folder](https://github.com/anujb-msft/voice-ai-template-gallery/tree/main/docs/templates) holds guides, code, and presenter assets. Demo-grade. | [anujb-msft](https://github.com/anujb-msft) | 2026-09-02 | 2026-10-20 |
-| [voice-first-sme-agent-template](https://github.com/Azure-Samples/voice-first-sme-agent-template) | React and FastAPI voice template with deployment scaffolding and optional RAG. No verified TPE or TPA support. | [Azure-Samples](https://github.com/Azure-Samples) | 2026-06-11 | 2026-06-11 |
-| [voicelive-webapp](https://github.com/Azure-Samples/voicelive-webapp) | WebRTC voice and avatar web app. Its [Teams meeting delegate](https://github.com/Azure-Samples/voicelive-webapp/tree/main/samples/teams-meeting-delegate) sample targets Teams **meetings**, not TPE or TPA. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-11-03 | 2026-09-18 |
-| [voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach) | Voice-based customer simulations for sales training and feedback. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-22 | 2026-09-21 |
-| [voice-live-gradio](https://github.com/Azure-Samples/voice-live-gradio) | Side-by-side demos comparing realtime, Voice Live, and Foundry voice. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-12 | 2026-05-28 |
 
 ---
 
