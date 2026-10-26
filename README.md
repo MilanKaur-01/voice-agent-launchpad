@@ -1,6 +1,6 @@
 # 🎙️ Voice Agent Launchpad
 
-**One front door to the scattered voice-agent samples for Teams Phone Extensibility (TPE) and custom voice agents.**
+**One front door to voice-agent samples for Teams Phone Extensibility (TPE) and custom voice agents.**
 
 Useful voice samples live across many personal and organization GitHub accounts. This page curates them in one place so partners and customers can find a strong starting point quickly. Nothing is copied here: every entry links to its externally maintained source repository.
 
