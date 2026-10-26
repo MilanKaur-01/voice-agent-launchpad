@@ -7,7 +7,7 @@ Useful voice samples live across many personal and organization GitHub accounts.
 > [!IMPORTANT]
 > This is a curated index, not an official Microsoft catalog. Inclusion does not imply endorsement, production readiness, support, or license approval. Review each source repository's license, security posture, and maintenance status before you use it.
 
-**Jump to:** [Start here](#-start-here) · [Teams Phone Extensibility](#-teams-phone-extensibility-tpe) · [Voice Live and Foundry voice agents](#-voice-live-and-foundry-voice-agents) · [Templates and scenario demos](#-templates-and-scenario-demos) · [How to read this page](#-how-to-read-this-page) · [Suggest a sample](#-suggest-a-sample)
+**Jump to:** [Start here](#-start-here) · [Teams Phone Extensibility](#-teams-phone-extensibility-tpe) · [Voice Live and Foundry voice agents](#-voice-live-and-foundry-voice-agents) · [Templates and scenario demos](#-templates-and-scenario-demos) · [Suggest a sample](#-suggest-a-sample)
 
 ---
 
@@ -83,18 +83,6 @@ For broad catalogs, links go straight to the voice-specific folders.
 | [voicelive-webapp](https://github.com/Azure-Samples/voicelive-webapp) | WebRTC voice and avatar web app. Its [Teams meeting delegate](https://github.com/Azure-Samples/voicelive-webapp/tree/main/samples/teams-meeting-delegate) sample targets Teams **meetings**, not TPE or TPA. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-11-03 | 2026-09-18 |
 | [voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach) | Voice-based customer simulations for sales training and feedback. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-22 | 2026-09-21 |
 | [voice-live-gradio](https://github.com/Azure-Samples/voice-live-gradio) | Side-by-side demos comparing realtime, Voice Live, and Foundry voice. | [Azure-Samples](https://github.com/Azure-Samples) | 2025-08-12 | 2026-05-28 |
-
----
-
-## 📖 How to read this page
-
-- **⭐ Strong starting point:** a curated recommendation for first exploration, not a quality or support guarantee.
-- **Owner:** the GitHub account or organization that hosts the repository. It is **not** a verified original author. No individual authorship has been verified for these entries, and latest committers are never treated as authors.
-- **Created:** the date the GitHub repository was created (UTC). It is not a verified first-publication date.
-- **Last commit:** the latest commit on the default branch (UTC). Dates apply to the whole repository, not to individual subfolders.
-- **TPE vs. general voice:** only the [TPE section](#-teams-phone-extensibility-tpe) lists samples that work directly with Teams Phone Extensibility.
-
-_Metadata last verified: 2026-10-26._
 
 ---
 
